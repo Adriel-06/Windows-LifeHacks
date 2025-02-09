@@ -1,0 +1,57 @@
+What is the shortcut key to open Task Manager in Windows?| Ctrl + Alt + Del| Ctrl + Shift + Esc| Alt + Tab| Ctrl + Shift + Del| Ctrl + Shift + Esc
+What is the default browser in Windows 10?| Google Chrome| Mozilla Firefox| Microsoft Edge| Internet Explorer| Microsoft Edge
+Which file system does Windows primarily use?| NTFS| FAT32| exFAT| APFS| NTFS
+What is the name of the digital assistant in Windows 10?| Siri| Alexa| Cortana| Google Assistant| Cortana
+What is the maximum character limit for a file name in Windows?| 255| 128| 512| Unlimited| 255
+What does BitLocker do in Windows?| Boosts performance| Encrypts drives| Deletes files permanently| Restores system settings| Encrypts drives
+Which Windows feature allows you to create multiple virtual desktops?| Task Manager| Task View| Control Panel| Windows Defender| Task View
+What is the default tool for creating system backups in Windows?| File History| System Restore| Task Scheduler| Disk Cleanup| File History
+Which of these is NOT a default Windows app?| Paint| Calculator| GarageBand| Notepad| GarageBand
+What does the 'snipping tool' do?| Plays music| Captures screenshots| Manages storage| Edits files| Captures screenshots
+What does the Windows + D shortcut do?| Minimizes all windows| Opens Device Manager| Opens the Desktop| Duplicates a file| Minimizes all windows
+Which shortcut locks your Windows PC?| Ctrl + L| Alt + L| Windows + L| Shift + L| Windows + L
+What is the shortcut to open File Explorer?| Ctrl + E| Windows + E| Alt + E| Shift + E| Windows + E
+To switch between open apps in Windows which shortcut is used?| Ctrl + Tab| Alt + Tab| Shift + Tab| Windows + Tab| Alt + Tab
+Which shortcut takes a screenshot and copies it to the clipboard?| Print Screen| Windows + Print Screen| Alt + Print Screen| Ctrl + Print Screen| Print Screen
+What does Windows Defender protect your PC against?| Performance issues| Viruses and malware| Network connectivity problems| Outdated drivers| Viruses and malware
+What is a firewall used for?| Cleaning your PC| Managing system resources| Blocking unauthorized access to your network| Backing up data| Blocking unauthorized access to your network
+How can you check if a website is secure in a browser?| Look for a padlock symbol in the address bar| Check if the URL has 'http'| Ensure the website has ads| Ask your antivirus program| Look for a padlock symbol in the address bar
+What is the purpose of two-factor authentication?| To speed up login| To reduce the number of passwords| To add an extra layer of security| To track your activity| To add an extra layer of security
+Which tool lets you view and manage permissions for apps in Windows?| Task Manager| Control Panel| Privacy Settings| Device Manager| Privacy Settings
+Which tool is used to manage startup programs in Windows?| Disk Cleanup| Task Manager| Control Panel| Device Manager| Task Manager
+What is 'Disk Cleanup' used for?| Formatting your disk| Freeing up storage space| Backing up files| Encrypting files| Freeing up storage space
+Which shortcut opens the Run dialog box?| Windows + R| Windows + M| Alt + R| Ctrl + R| Windows + R
+How can you optimize your PC for gaming?| Update drivers| Lower display resolution| Use 'Game Mode'| All of the above| All of the above
+Which tool shows the system's hardware and performance?| Task Manager| Resource Monitor| System Information| All of the above| All of the above
+What does 'Safe Mode' do?| Prevents file deletion| Starts Windows with minimal drivers and services| Speeds up startup| Encrypts your files| Starts Windows with minimal drivers and services
+How can you access Windows Recovery options?| Press F8 during startup| Use Settings > Update & Security > Recovery| Boot from installation media| All of the above| All of the above
+What does 'blue screen of death' (BSOD) usually indicate?| A virus infection| A hardware or software issue| An outdated driver| A low battery| A hardware or software issue
+How can you fix a slow Windows PC?| Uninstall unnecessary programs| Use Disk Cleanup| Disable startup apps| All of the above| All of the above
+What does 'System Restore' do?| Backs up files| Reinstalls Windows| Restores your PC to a previous state| Deletes all data| Restores your PC to a previous state
+What year was Windows 10 released?| 2013| 2015| 2017| 2018| 2015
+What does 'Ctrl + Z' do?| Saves changes| Undoes the last action| Copies text| Closes a window| Undoes the last action
+Which app store comes with Windows?| Microsoft Store| Windows Market| App Depot| Play Store| Microsoft Store
+What does 'Hibernate' mode do?| Shuts down the PC| Puts the PC to sleep| Saves the current state to the hard drive and shuts down| Clears the cache| Saves the current state to the hard drive and shuts down
+Which tool in Windows allows you to uninstall apps?| Task Manager| Control Panel| File Explorer| Device Manager| Control Panel
+Which Windows feature allows you to undo recent updates or changes to the system?| File History| System Restore| Disk Cleanup| Troubleshoot Mode| System Restore
+Which tool in Windows can be used to manage hard drive partitions?| Disk Cleanup| Disk Management| Resource Monitor| Task Scheduler| Disk Management
+What does the 'Event Viewer' in Windows do?| Displays system performance data| Tracks and logs system events and errors| Manages apps and files| Updates Windows software| Tracks and logs system events and errors
+What does the 'Windows + X' shortcut do?| Opens the Quick Link menu| Opens the Taskbar| Launches File Explorer| Minimizes all windows| Opens the Quick Link menu  
+Which command is used to check the IP configuration in Command Prompt?| ipconfig| ping| tracert| netstat| ipconfig  
+What is the primary purpose of 'Device Manager' in Windows?| Update software| Manage hardware devices| View system logs| Delete temporary files| Manage hardware devices  
+Which feature in Windows helps reduce eye strain?| Blue Light Filter| Game Mode| System Restore| Cortana| Blue Light Filter  
+What is the maximum RAM supported by a 32-bit version of Windows?| 2GB| 4GB| 8GB| 16GB| 4GB  
+What does the Windows 'Snip & Sketch' app do?| Captures screenshots| Plays video files| Deletes temporary files| Updates drivers| Captures screenshots  
+What does 'Windows + P' do?| Opens Display Settings| Opens the Print menu| Switches display modes| Opens the Project menu| Switches display modes  
+Which file format is primarily used for Windows system backups?| .iso| .bak| .zip| .vhdx| .vhdx  
+Which command is used to check disk errors in Command Prompt?| chkdsk| diskpart| format| sfc| chkdsk  
+What does the 'Windows Update' tool do?| Installs new software| Updates drivers| Keeps Windows OS up to date| Cleans temporary files| Keeps Windows OS up to date  
+What does 'Task Scheduler' allow you to do?| Schedule backups| Run tasks automatically| Manage app permissions| Update Windows| Run tasks automatically  
+Which Windows 10 feature allows syncing of files across devices?| OneDrive| File Explorer| System Restore| Disk Cleanup| OneDrive  
+What is the default location of installed apps on Windows?| C:\Program Files| D:\Apps| C:\Windows| E:\Installed Programs| C:\Program Files  
+What does the 'Windows Security' app protect against?| Outdated software| Malware and threats| Disk fragmentation| File corruption| Malware and threats  
+Which shortcut key opens the Settings app in Windows?| Windows + I| Windows + S| Ctrl + I| Alt + I| Windows + I  
+What is the purpose of 'Remote Desktop' in Windows?| Access another PC remotely| Share files between PCs| Update Windows remotely| Reinstall drivers| Access another PC remotely  
+What does the 'Windows + L' shortcut do?| Locks the PC| Logs out of the account| Opens the login screen| All of the above| Locks the PC  
+What does 'sfc /scannow' do in Command Prompt?| Scans and repairs system files| Deletes temporary files| Checks for malware| Formats a drive| Scans and repairs system files  
+What does 'System Information' in Windows provide?| Performance metrics| Driver updates| Detailed hardware and software details| Disk usage information| Detailed hardware and software details

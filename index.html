@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Windows LifeHacks</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="registration-form-styles.css">
+    <link rel="stylesheet" href="registration-form-script.js">
+    
+</head>
+<body class="is-preload">
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+        <!-- Header -->
+         <!-- Hero Section -->
+    <header class="hero">
+        <h1>Welcome to Windows LifeHacks</h1>
+        <p>Your ultimate guide to mastering Windows</p>
+    </header>
+         <!-- Navbar -->
+    <nav class="navbar">
+        <div class="logo">
+            <a href="index.html" class="logo">
+                <span class="symbol"><img src="logo.png" alt="" /></span><span class="title">Windows LifeHacks</span>
+            </a>
+        </div>
+        <ul class="nav-links">
+            <li><a href="#wrapper">Home</a></li>
+            <li><a href="#main">Tutorials</a></li>
+            <li><a href="#registration-form">Register</a></li>
+            <li><a href="#footer">Contact</a></li>
+        </ul>
+    </nav>
+
+        <!-- Main -->
+        <div id="main">
+            <div class="inner">
+                <header>
+                    <p>.</p>
+                    <p>.</p>
+                    <h1>Welcome to Windows LifeHacks</h1>
+                    <p>Your one-stop destination for mastering Windows tips, tricks, and tutorials!</p>
+                </header>
+                <section class="tiles">
+                    <article class="tile computing">
+                        <a href="computing.html">
+                            <i class="fas fa-laptop-code"></i> <!-- Font Awesome icon -->
+                            <h2>Computing</h2>
+                            <p>Explore essential computing tips and tricks to enhance your productivity.</p>
+                        </a>
+                    </article>
+                    <article class="tile privacy">
+                        <a href="privacy.html">
+                            <i class="fas fa-user-shield"></i>
+                            <h2>Privacy</h2>
+                            <p>Learn how to protect your personal information and maintain your privacy online.</p>
+                        </a>
+                    </article>
+                    <article class="tile security">
+                        <a href="security.html">
+                            <i class="fas fa-lock"></i>
+                            <h2>Security</h2>
+                            <p>Discover best practices to keep your system and data secure from threats.</p>
+                        </a>
+                    </article>
+                    <article class="tile software">
+                        <a href="software.html">
+                            <i class="fas fa-tools"></i>
+                            <h2>Software</h2>
+                            <p>Get recommendations and guides for must-have software and tools.</p>
+                        </a>
+                    </article>
+                    <article class="tile internet">
+                        <a href="internet.html">
+                            <i class="fas fa-globe"></i>
+                            <h2>Internet</h2>
+                            <p>Master the web with tips on browsing, connectivity, and online tools.</p>
+                        </a>
+                    </article>                    
+                    <article class="tile gaming">
+                        <a href="gaming.html">
+                            <i class="fas fa-gamepad"></i>
+                            <h2>Gaming</h2>
+                            <p>Optimize your gaming experience with tips for performance and fun.</p>
+                        </a>
+                    </article>
+                    <article class="tile customization">
+                        <a href="customization.html">
+                            <i class="fas fa-palette"></i>
+                            <h2>Customization</h2>
+                            <p>Personalize your Windows environment to make it truly your own.</p>
+                        </a>
+                    </article>
+                    <article class="tile optimization">
+                        <a href="optimization.html">
+                            <i class="fas fa-rocket"></i>
+                            <h2>Optimization</h2>
+                            <p>Boost your system’s performance with expert optimization tips.</p>
+                        </a>
+                    </article>                    
+                    <article class="tile mcq">
+                        <a href="MCQ-index.html">
+                            <i class="fas fa-question"></i>
+                            <h2>MCQ Quiz</h2>
+                            <p>Test your knowledge of Windows with this engaging quiz!</p>
+                        </a>
+                    </article>
+                </section>
+            </div>
+        </div>
+
+        <!-- Registration Form Section -->
+<div id="registration-form">
+    <div class="container">
+        <div class="title">Registration Form</div>
+        <div class="content">
+            <form id="registrationForm">
+                <div class="user-details">
+                    <div class="input-box">
+                        <span class="details">NIC</span>
+                        <input type="text" id="nic" placeholder="Enter your NIC" required minlength="10" maxlength="12">
+                    </div>
+                    <div class="input-box">
+                        <span class="details">First Name</span>
+                        <input type="text" id="firstName" placeholder="Enter your First Name" required>
+                    </div>
+                    <div class="input-box">
+                        <span class="details">Surname</span>
+                        <input type="text" id="surname" placeholder="Enter your Surname" required>
+                    </div>
+                    <div class="input-box">
+                        <span class="details">Phone</span>
+                        <input type="text" id="phone" placeholder="Enter 7-digit phone number" required maxlength="7">
+                    </div>
+                    <div class="input-box">
+                        <span class="details">Email</span>
+                        <input type="email" id="email" placeholder="Enter your Email" required>
+                    </div>
+                    <div class="input-box">
+                        <span class="details">Username</span>
+                        <input type="text" id="username" placeholder="Enter a Username" required>
+                    </div>
+                    <div class="input-box">
+                        <span class="details">Password</span>
+                        <input type="password" id="password" placeholder="Enter Password" required>
+                    </div>
+                    <div class="input-box">
+                        <span class="details">Confirm Password</span>
+                        <input type="password" id="confirmPassword" placeholder="Confirm Password" required>
+                    </div>
+                </div>
+                <div class="gender-details">
+                    <span class="gender-title">Gender</span>
+                    <div class="category">
+                        <label>
+                            <input type="radio" name="gender" id="dot-1" value="Male" required>
+                            <span class="dot one"></span>
+                            <span>Male</span>
+                        </label>
+                        <label>
+                            <input type="radio" name="gender" id="dot-2" value="Female">
+                            <span class="dot two"></span>
+                            <span>Female</span>
+                        </label>
+                    </div>
+                </div>
+                <div>
+                    <label>
+                        <input type="checkbox" id="terms" required>  I agree to the terms and conditions <a href="privacy-policy-terms-conditions.html">T&C</a>
+                    </label>
+                </div>
+                <div class="button">
+                    <input type="submit" value="Register">
+                    <input type="reset" value="Reset">
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+        <!-- Footer -->
+        <footer id="footer">
+            <div class="inner">
+                <section>
+                    <h2>Get in touch</h2>
+                    <form method="post" action="https://submit-form.com/hodXe9861">
+                        <div class="fields">
+                            <div class="field half">
+                                <input type="text" name="name" id="name" placeholder="Name" />
+                            </div>
+                            <div class="field half">
+                                <input type="email" name="email" id="email" placeholder="Email" />
+                            </div>
+                            <div class="field">
+                                <textarea name="message" id="message" placeholder="Message"></textarea>
+                            </div>
+                        </div>
+                        <ul class="actions">
+                            <li><input type="submit" value="Send" class="primary" /></li>
+                        </ul>
+                    </form>
+                </section>
+        
+                <!-- Social Media Icons -->
+                <section>
+                    <h2>Follow</h2>
+                    <ul class="icons">
+                        <li><a href="https://x.com/lifehacker" class="icon brands style2 fab fa-twitter"><span class="label">Twitter</span></a></li>
+                        <li><a href="https://www.facebook.com/lifehacker" class="icon brands style2 fab fa-facebook-f"><span class="label">Facebook</span></a></li>
+                        <li><a href="https://www.instagram.com/lifehackerdotcom/" class="icon brands style2 fab fa-instagram"><span class="label">Instagram</span></a></li>
+                    </ul>
+                </section>
+        
+                <ul class="copyright">
+                    <p>© 2025 Windows LifeHacks. All rights reserved.</p>
+                    <p><a href="privacy-policy-terms-conditions.html">Privacy Policy</a> | <a href="privacy-policy-terms-conditions.html">Terms of Service</a></p>
+                </ul>
+            </div>
+        </footer>
+    </div>
+    <script ></script>
+</body>
+</html>
